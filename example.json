@@ -1,0 +1,6 @@
+{
+  "name": "elasticsearch-mcp-vscode",
+  "engine": "elasticsearch",
+  "slug": "elasticsearch",
+  "kind": "mcp"
+}
